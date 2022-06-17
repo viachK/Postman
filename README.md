@@ -130,6 +130,7 @@ response:
 
 Run Collection
 
+<img width="1038" alt="Screenshot 2022-06-17 at 20 16 29" src="https://user-images.githubusercontent.com/106442178/174365246-cdd9769d-f2aa-453e-8e72-1cd7d8d6d298.png">
 
-          <img width="1038" alt="Screenshot 2022-06-17 at 20 16 29" src="https://user-images.githubusercontent.com/106442178/174358939-17b53c79-bc66-4edd-b54a-1fb3e16d0916.png">
+         
 
